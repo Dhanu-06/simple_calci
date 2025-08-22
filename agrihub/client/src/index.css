@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+:root {
+	--bg: #f6fbf7;
+}
+body {
+	background: var(--bg);
+}
